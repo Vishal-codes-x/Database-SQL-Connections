@@ -1,5 +1,10 @@
-This repository provides examples of how to connect SQL databases with different programming languages.
-It is designed as a reference for beginners and developers who want to quickly learn how to establish a connection, execute queries, and interact with SQL databases from their code.
+This repository provides practical examples of connecting SQL databases using different programming languages.
+It is designed to help developers and beginners understand how to:
 
-Currently, the project includes a Python example using MySQL Connector, and in the future it will be extended with more languages such as Java (JDBC), Node.js, PHP, and others.
-Each example will demonstrate essential database operations like connecting, creating tables, inserting data, and fetching results.
+Establish a connection with a SQL database
+
+Execute queries (create, insert, select, update)
+
+Manage database interactions across multiple languages
+
+Currently, the repo includes a Python–MySQL connector example. In future updates, additional languages such as Java (JDBC), Node.js, and PHP will be added to show a variety of approaches for SQL database integration.
